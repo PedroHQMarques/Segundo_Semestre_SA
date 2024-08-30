@@ -1,11 +1,13 @@
 import React from 'react'
-import Cabecalho.css
+import "Cabecalho-container.css"
 
 function Cabecalho() {
-  return (className="Cabecalho-container">
-    <div>
-       <h1>Oi</h1>
-    </div>
+  return (
+  
+  <div clasName = "Cabecalho-container">
+  
+  
+  </div>
 
   )
 }
